@@ -18,17 +18,31 @@ O Wumpus pode ser morto pelo agente por uma flexa mas este possue somente uma ch
 -------------------------------------
 
 #Movimentos vitoriosos
+
 iniciar.
+
 s.
+
 s.
+
 {pegou ouro}
+
 d.
+
 d.
+
 d.
+
 {pegou ouro}
+
 a.
+
 a.
+
 a.
+
 w.
+
 w.
+
 venceu
