@@ -1,7 +1,3 @@
-%% NATALY NORIA KAROL SOUSA GONCALVES
-%% N3336A7
-%% CC6P39
-
 
 %% Movimentos vitoriosos
 %% iniciar.
