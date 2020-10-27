@@ -28,6 +28,9 @@
     var_user_localizacaoY/1
 ]).
 
+main:-
+    iniciar.
+
 
 %% inicio
 iniciar :-
@@ -159,7 +162,7 @@ registrar_nova_localizacao(X,Y) :-
     assert(var_user_localizacaoY(Y)),
 
     %%  retorna mensagem
-    write('Voce está em X:'), write(X), write(' Y:'), writeln(Y).
+    write('Voce está em X:'), write(Y), write(' Y:'), writeln(X).
 
 tem_wumpus(X,Y) :-
     var_actor_w(X,Y).
